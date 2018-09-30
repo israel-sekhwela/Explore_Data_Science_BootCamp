@@ -1,0 +1,56 @@
+29-09-18_20:33:26
+=========================================
+============ AUTOGRADING ================
+=========================================
+Unzipping 1079_229.zip to /home/ubuntu/grader_unzipped
+Archive:  /home/ubuntu/temp/1079_229.zip
+  inflating: /home/ubuntu/grader_unzipped/1079_229/financial_calulator_test_suite.py  
+  inflating: /home/ubuntu/grader_unzipped/1079_229/Project Financial Advisor.ipynb  
+  inflating: /home/ubuntu/grader_unzipped/1079_229/conftest.py  
+Unzipped successfully
+-----------------------------------------
+Converting submitted notebook to script
+[NbConvertApp] Converting notebook Project Financial Advisor.ipynb to script
+[NbConvertApp] Writing 11992 bytes to submission.py
+Notebook converted successfully
+-----------------------------------------
+Preprocessing notebook
+Notebook preprocessed successfully
+-----------------------------------------
+Grading student code
+[PASSED] --- financial_calulator_test_suite.py::test_savings_calculator
+[PASSED] --- financial_calulator_test_suite.py::test_savings_calculator
+[PASSED] --- financial_calulator_test_suite.py::test_savings_calculator
+[PASSED] --- financial_calulator_test_suite.py::test_savings_calculator
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_savings
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_savings
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_savings
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_savings
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_age
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_age
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_age
+[PASSED] --- financial_calulator_test_suite.py::test_retirement_age
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan_with_age
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan_with_age
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan_with_age
+[PASSED] --- financial_calulator_test_suite.py::test_maximum_home_loan_with_age
+[PASSED] --- financial_calulator_test_suite.py::test_pay_off_period
+[PASSED] --- financial_calulator_test_suite.py::test_pay_off_period
+[PASSED] --- financial_calulator_test_suite.py::test_pay_off_period
+[FAILED] --- financial_calulator_test_suite.py::test_pay_off_period
+------------ {'test_input': [10, 1, 0.05]
+[PASSED] --- financial_calulator_test_suite.py::test_investment
+[PASSED] --- financial_calulator_test_suite.py::test_investment
+[PASSED] --- financial_calulator_test_suite.py::test_investment
+[PASSED] --- financial_calulator_test_suite.py::test_investment
+Failed to grade student code
+Saving result (96.43) to 1079_229.csv
+-----------------------------------------
+=========================================
+AUTOGRADING COMPLETED WITH EXIT STATUS: 0
+=========================================
+
